@@ -71,6 +71,7 @@
     <None Include="_Documentation\Universe_Controller_View Diagram.cd" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="TextFile1.txt" />
     <Content Include="_Documentation\VScodePrint.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
